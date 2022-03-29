@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammed Furkan FİRUZ</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <h4 align="center">-🌱 I’m currently learning **ReactJS**></h4>
-<h4 align="center">- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, ReactJS**></h4>
-
 <h3 align="center">Connect with me:</h3>
 <h4 align="center">- 📫 How to reach me <a href="mailto: mfurkan.firuz@gmail.com">mfurkan.firuz@gmail.com</a></h4>
-
-
 
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammed-furkan-firuz-7b32171a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-furkan-firuz-7b32171a0/" height="30" width="40" /></a>
@@ -24,7 +20,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedfurkanfiruz&show_icons=true&locale=en" alt="muhammedfurkanfiruz" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedfurkanfiruz&" alt="muhammedfurkanfiruz" /></p>
+
 
 
 
