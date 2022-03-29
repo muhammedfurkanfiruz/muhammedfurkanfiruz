@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammed Furkan FİRUZ</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+<h4 align="center">-🌱 I’m currently learning **ReactJS**></h4>
+<h4 align="center">- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, ReactJS**></h4>
 
 <h3 align="center">Connect with me:</h3>
 <h4 align="center">- 📫 How to reach me <a href="mailto: mfurkan.firuz@gmail.com">mfurkan.firuz@gmail.com</a></h4>
-<h4 align="center">-🌱 I’m currently learning **ReactJS**></h4>
-<h4 align="center">- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, ReactJS**></h4>
+
 
 
 <p align="center">
