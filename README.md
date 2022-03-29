@@ -3,8 +3,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <h4 align="center">- 📫 How to reach me <a href="mailto: mfurkan.firuz@gmail.com">mfurkan.firuz@gmail.com</a></h4>
-- 🌱 I’m currently learning **ReactJS**
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, ReactJS**
+<p>- 🌱 I’m currently learning **ReactJS**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, ReactJS**</p>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammed-furkan-firuz-7b32171a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-furkan-firuz-7b32171a0/" height="30" width="40" /></a>
 </p>
