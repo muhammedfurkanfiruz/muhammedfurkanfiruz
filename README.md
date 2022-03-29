@@ -3,8 +3,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <h4 align="center">- 📫 How to reach me <a href="mailto: mfurkan.firuz@gmail.com">mfurkan.firuz@gmail.com</a></h4>
-<h4 align="center">-🌱 I’m currently learning **ReactJS**>mfurkan.firuz@gmail.com</a></h4>
-<h4 align="center">- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, ReactJS**>mfurkan.firuz@gmail.com</a></h4>
+<h4 align="center">-🌱 I’m currently learning **ReactJS**></h4>
+<h4 align="center">- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, ReactJS**></h4>
 
 
 <p align="center">
